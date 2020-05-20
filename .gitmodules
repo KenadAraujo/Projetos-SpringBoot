@@ -1,3 +1,6 @@
 [submodule "RFBApi"]
 	path = RFBApi
 	url = https://github.com/KenadAraujo/RFBApi.git
+[submodule "CatalogoHerois"]
+	path = CatalogoHerois
+	url = https://github.com/KenadAraujo/CatalogoHerois.git
